@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Mingan Luan's Personal Websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Mingan's Biography 
+======
+I'm Mingan Luan. I received my Ph.D. degree in the College of Communication Engineering, Jilin University, Changchun, China, in 2023. I am currently a postdoctoral fellow in the School of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC), China. In 2021, I was a visiting Ph.D. student in the Faculty of Information Technology at the University of Jyv"askyl"a, Jyv"askyl"a, Finland. My research interests include Integrated Sensing and Communication, Space-Air-Ground Networks, Reconfigurable Intelligent Surfaces, and Edge Computing. I was named an Exemplary Reviewer of IEEE Wireless Communications Letters in 2023. I have served as a Technical Program Committee (TPC) member for major IEEE conferences, including IEEE ICC, IEEE GLOBECOM, IEEE WCNC, and IEEE VTC.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
