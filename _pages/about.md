@@ -9,7 +9,7 @@ redirect_from:
 
 Mingan's Biography 
 ======
-I'm Mingan Luan. I received my Ph.D. degree in the College of Communication Engineering, Jilin University, Changchun, China, in 2023. I am currently a postdoctoral fellow in the School of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC), China. In 2021, I was a visiting Ph.D. student in the Faculty of Information Technology at the University of Jyv$\ddot{a}$skyl$\ddot{a}$, Jyv$\ddot{a}$skyl$\ddot{a}$, Finland. My research interests include Integrated Sensing and Communication, Space-Air-Ground Networks, Reconfigurable Intelligent Surfaces, and Edge Computing. I was named an Exemplary Reviewer of IEEE Wireless Communications Letters in 2023. I have served as a Technical Program Committee (TPC) member for major IEEE conferences, including IEEE ICC, IEEE GLOBECOM, IEEE WCNC, and IEEE VTC.
+I'm Mingan Luan. I received my Ph.D. degree in the College of Communication Engineering, Jilin University, Changchun, China, in 2023. I am currently a postdoctoral fellow in the School of Computer Science and Engineering at the University of Electronic Science and Technology of China (UESTC), China. In 2021, I was a visiting Ph.D. student in the Faculty of Information Technology at the University of Jyvaskyla, Jyvaskyla, Finland. My research interests include Integrated Sensing and Communication, Space-Air-Ground Networks, Reconfigurable Intelligent Surfaces, and Edge Computing. I was named an Exemplary Reviewer of IEEE Wireless Communications Letters in 2023. I have served as a Technical Program Committee (TPC) member for major IEEE conferences, including IEEE ICC, IEEE GLOBECOM, IEEE WCNC, and IEEE VTC.
 
 
 A data-driven personal website
