@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingan Luan's Personal Websites"
+title: "Hi~I'm Mingan Luan (栾明桉)"
 author_profile: true
 redirect_from: 
   - /about/
