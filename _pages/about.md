@@ -21,4 +21,3 @@ Education
 - 2020.09-2023.12, Ph.D., Information and Communication Engineering, Jilin University, Changchun, China.
 - 2021.09-2022.10, Visiting Ph.D., Wireless Communications, University of Jyvaskyla, Jyvaskyla Finland.
 - 2018.09-2020.06, M.S., Electronical and Communication Engineering, Jilin University, Changchun, China.
-- 2014.09-2018.06, B.S., Electronical and Information Engineering, Changchun Institute of Technology, Changchun, China.
